@@ -24,4 +24,6 @@ This analysis will help investors see who uses the bikeshare program, when, and 
 
 Overall, this data analysis has given a general idea of the usage trends based on gender, day and time. Additionally, the data shows which starting and ending locations are more popular. It may be helpful to have a data visualization of the checkout times by birth year as well as the user trips by birth year. This may help find the target customers by age group. 
 
+[link to Dashboard and Story](https://public.tableau.com/app/profile/aidan.ruiz/viz/NYCCitibikeAnalysis_16494827550730/NYCCitibikeDashboard?publish=yes)
+
 ![image](https://user-images.githubusercontent.com/91445591/161463436-48fb5d00-2330-4b0e-94b0-b208e65088be.png)
